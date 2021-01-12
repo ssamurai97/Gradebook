@@ -1,0 +1,16 @@
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/Gradebook
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/Gradebook.deps.json
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/Gradebook.runtimeconfig.json
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/Gradebook.runtimeconfig.dev.json
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/Gradebook.dll
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/ref/Gradebook.dll
+/home/kuchlong/Developer/gradebook/src/Gradebook/bin/Debug/net5.0/Gradebook.pdb
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.csprojAssemblyReference.cache
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.GeneratedMSBuildEditorConfig.editorconfig
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.AssemblyInfoInputs.cache
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.AssemblyInfo.cs
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.csproj.CoreCompileInputs.cache
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.dll
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/ref/Gradebook.dll
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.pdb
+/home/kuchlong/Developer/gradebook/src/Gradebook/obj/Debug/net5.0/Gradebook.genruntimeconfig.cache
